@@ -1,7 +1,7 @@
 
-### Hello! I'm Vitorio, I'm a computer engineering student at UFPA.
+### Hello! I'm Vitorio, I'm a computer engineering student at Federal University of Pará in Brazil.
 ##
-### MY SOCIAL NETWORK AND EMAIL.
+### MY SOCIAL NETWORK.
 
 [![istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorio.amc/)
 
@@ -10,8 +10,13 @@
 ![fraga github stats](https://github-readme-stats.vercel.app/api?username=Vitoriodev&theme=dracula)
 
 
+##
+<p align="left">
+  <img align="center" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" alt="Imagem">
+</p>
 
 ##
+
 ### MY TECHNOLOGY:
 
 <div style="display: inline_block"><br/>
