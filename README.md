@@ -19,7 +19,7 @@
 ```python
 vitorio = {
     "nome":       "Vitório",
-    "localização": "Belém, Pará — Brasil 🇧🇷",
+    "localização": "Castanhal, Pará — Brasil 🇧🇷",
     "universidade": "Universidade Federal do Pará (UFPA)",
     "curso":      "Engenharia de Computação",
     "foco":       "Engenharia de Dados",
