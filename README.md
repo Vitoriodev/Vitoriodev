@@ -59,13 +59,6 @@ vitorio = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoriodev&show_icons=true&theme=github_dark&bg_color=0f2027&title_color=00d4ff&icon_color=00d4ff&text_color=a8dadc&border_color=203a43&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriodev&layout=compact&theme=github_dark&bg_color=0f2027&title_color=00d4ff&text_color=a8dadc&border_color=203a43&hide_border=false"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vitoriodev&theme=dark&background=0f2027&border=203a43&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a8dadc&dates=a8dadc&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
